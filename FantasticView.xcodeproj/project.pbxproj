@@ -13,6 +13,7 @@
 		39225719247D1DA000F93DE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39225717247D1DA000F93DE8 /* Main.storyboard */; };
 		3922571B247D1DA300F93DE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3922571A247D1DA300F93DE8 /* Assets.xcassets */; };
 		3922571E247D1DA300F93DE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3922571C247D1DA300F93DE8 /* LaunchScreen.storyboard */; };
+		39225726247D1DC500F93DE8 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39225725247D1DC500F93DE8 /* FantasticView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3922571A247D1DA300F93DE8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3922571D247D1DA300F93DE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3922571F247D1DA300F93DE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39225725247D1DC500F93DE8 /* FantasticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				39225711247D1DA000F93DE8 /* AppDelegate.swift */,
 				39225713247D1DA000F93DE8 /* SceneDelegate.swift */,
 				39225715247D1DA000F93DE8 /* ViewController.swift */,
+				39225725247D1DC500F93DE8 /* FantasticView.swift */,
 				39225717247D1DA000F93DE8 /* Main.storyboard */,
 				3922571A247D1DA300F93DE8 /* Assets.xcassets */,
 				3922571C247D1DA300F93DE8 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				39225716247D1DA000F93DE8 /* ViewController.swift in Sources */,
 				39225712247D1DA000F93DE8 /* AppDelegate.swift in Sources */,
+				39225726247D1DC500F93DE8 /* FantasticView.swift in Sources */,
 				39225714247D1DA000F93DE8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
